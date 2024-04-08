@@ -16,7 +16,7 @@ The folder named Metrics contains all tests ran in order to investigate which im
 
 
 
-## Final Model
+## FinalModel
 
 The final 
 
