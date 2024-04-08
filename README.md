@@ -21,6 +21,7 @@ The folder named Metrics contains all tests ran in order to investigate which im
 The final Semantic Image Compression Scheme can be found in the Semantic_Image_Compression.ipynb. This file contains both the encoder and decoder architecture created for this individual project. 
 
 
+![Final Structure](Semantic_image_compression_Structure.png)
 
 
 
