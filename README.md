@@ -1,37 +1,19 @@
-# Project Name
+# Semantic Image Compression
 
-One or two paragraphs providing an overview of your project. Essentially, this part should explain what your project does and its target audience.
+The following repository contains the code used to evaluate different open-source image captioning and image generation models obtained from HuggingFace. Additionally, a final semantic image compression scheme can be found, representing the final deliverable of this research. 
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-- [Contact](#contact)
-
-## Installation
-
-Instructions on how to install and set up your project. Include any prerequisites, libraries, and environmental variables to be set. If your project needs a specific platform or prerequisite software to run, mention it here.
-
-```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
-./install
 
 
-command-to-run-your-project arg1 arg2
+## Usage
+
+The folders named ImageCaptioning and ImageGeneration include all image captioning and image generation models used respectively. These models were taken from HuggingFace and modified in order to run as intended. Their original author is mentionned in the Individual Project Report. It is possible to run each file in order to test how each work.
+
+The folder named Metrics contains all tests ran in order to investigate which image captioning and generation models are best for the semantic image compression scheme created. Modifications were done on these metrics model in order to run accordingly. Their original author is mentionned in the Individual Project Report. 
 
 
 
-Please feel free to contribute. If you have any suggestions or improvements, open an issue or send a pull request.
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-
-
-Distributed under the MIT License. See `LICENSE` for more information.
