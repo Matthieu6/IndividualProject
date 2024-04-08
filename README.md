@@ -5,7 +5,7 @@ The following repository contains the code used to evaluate different open-sourc
 ## Table of Contents
 
 - [Usage](#usage)
-- [Final_Model](#Final_Model)
+- [Final Model](#Final-Model)
 
 
 ## Usage
@@ -16,7 +16,7 @@ The folder named Metrics contains all tests ran in order to investigate which im
 
 
 
-## Final_Model
+## Final Model
 
 The final 
 
